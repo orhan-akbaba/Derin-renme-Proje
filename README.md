@@ -1,5 +1,30 @@
-#Eksi Sozluk Baslik Ozetleyici
-Bu program sayesinde EKsi Sozlukteki istediginiz basligi ozetleyebilirsiniz.
+# 📖 Ekşi Sözlük Başlık Özetleyici
 
-#Neden Boyle Bir Proje Yaptim?
-Cunku Turkce kaynak sayisi oldukca az o yuzden her bilgiyi kullanmamiz gerekiyor. Eksi Sozluk de hem objektif ve bilgilendirici hem de subjektif gorusleri bir arada barındırdıgı icin kesinlikle degerlendirilmesi gereken bir veri kaynagi. Bu kaynagi kullanarak hem en iyi girdilerden (sukela) hem de son girdilerden aldıgı bilgilerle sizlere o baslıkla ilgili genel kani ve guncel durum adında iki ozet sunuyor. Bu ozetleri kullanarak bilgi edinmek oldukca kolay.
+Bu proje, Ekşi Sözlük'teki herhangi bir başlık altındaki yüzlerce entry'yi analiz ederek size hızlı ve anlamlı özetler sunan yapay zeka tabanlı bir araçtır.
+
+## 🚀 Proje Hakkında
+
+Bilgi kirliliğinin arttığı günümüzde, bir konu hakkında halkın genel kanısını öğrenmek vakit alabiliyor. Bu program, Ekşi Sözlük'ün geniş veri havuzunu kullanarak kullanıcıya iki farklı perspektif sunar:
+
+* **Genel Kanı (Şükela):** Başlığın en beğenilen entry'lerinden süzülen rafine bilgiler.
+* **Güncel Durum:** Konuyla ilgili yazılan en son entry'lerden elde edilen güncel gelişmeler.
+
+## 💡 Neden Bu Projeyi Yaptım?
+
+Türkçe doğal dil işleme (NLP) alanında nitelikli kaynak sayısı nispeten azdır. Ekşi Sözlük; hem objektif bilgileri hem de subjektif kullanıcı deneyimlerini bir arada barındıran, Türkiye'nin en büyük dijital hafızalarından biridir. 
+
+Bu projeyi, bu devasa veri kaynağını daha verimli kullanabilmek ve bilgi edinme sürecini kolaylaştırmak amacıyla geliştirdim.
+
+## ✨ Özellikler
+
+- **Hızlı Özetleme:** Uzun entry dizinlerini saniyeler içinde özetler.
+- **Çift Yönlü Analiz:** Hem "en iyiler" hem de "en yeniler" üzerinden veri çeker.
+- **Kullanıcı Dostu Arayüz:** Gradio kullanılarak hazırlanan basit ve etkili web arayüzü.
+
+## 🛠️ Kurulum ve Kullanım
+
+Projeyi yerelinizde veya Google Colab üzerinde çalıştırmak için:
+
+1. Depoyu klonlayın:
+   ```bash
+   git clone [https://github.com/KULLANICI_ADIN/DEPO_ADIN.git](https://github.com/KULLANICI_ADIN/DEPO_ADIN.git)
