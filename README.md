@@ -2,6 +2,8 @@
 
 Bu proje, Ekşi Sözlük'teki herhangi bir başlık altındaki yüzlerce entry'yi analiz ederek size hızlı ve anlamlı özetler sunan yapay zeka tabanlı bir araçtır.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/orhan-akbaba/Derin-renme-Proje/blob/main/Derin_%C3%96%C4%9Frenme_Projesi.ipynb)
+
 ## 🚀 Proje Hakkında
 
 Bilgi kirliliğinin arttığı günümüzde, bir konu hakkında halkın genel kanısını öğrenmek vakit alabiliyor. Bu program, Ekşi Sözlük'ün geniş veri havuzunu kullanarak kullanıcıya iki farklı perspektif sunar:
