@@ -2,7 +2,7 @@
 
 Bu proje, Ekşi Sözlük'teki herhangi bir başlık altındaki yüzlerce entry'yi analiz ederek size hızlı ve anlamlı özetler sunan yapay zeka tabanlı bir araçtır.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/orhan-akbaba/Derin-renme-Proje/blob/main/Derin_%C3%96%C4%9Frenme_Projesi.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JptylMlNVVyZoTyMR5eSCiXpUxi8v1f1)
 
 ## 🚀 Proje Hakkında
 
