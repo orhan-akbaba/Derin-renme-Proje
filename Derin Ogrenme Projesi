@@ -67,7 +67,7 @@
         "warnings.filterwarnings(\"ignore\")\n",
         "\n",
         "\n",
-        "API_KEY = \"AIzaSyA-onHP9Yj4Akjgw-35fqqlGAum_kVmR4Y\"\n",
+        
         "\n",
         "try:\n",
         "    genai.configure(api_key=API_KEY)\n",
